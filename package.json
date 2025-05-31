@@ -1,6 +1,6 @@
 {
   "name": "com.gameframex.unity.nomnomab.asset-tabs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "displayName": "Asset Tabs",
   "description": "This package allows for you to easily make docked tabs for your assets",
   "unity": "2022.3",

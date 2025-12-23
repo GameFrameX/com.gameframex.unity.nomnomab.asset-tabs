@@ -8,12 +8,25 @@
   "documentationUrl": "https://github.com/nomnomab/unity-asset-tabs",
   "licensesUrl": "https://choosealicense.com/licenses/mit/",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "semantic-release": "^24.2.0",
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1"
+  },
   "samples": [],
   "author": {
-    "name": "Andrew Burke",
-    "email": "",
-    "url": "https://github.com/nomnomab"
+    "name": "Blank",
+    "email": "alianblank@outlook.com",
+    "url": "https://gameframex.doc.alianblank.com"
   },
-  "type": "library"
+  "type": "library",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.cnb.cool/GameFrameX/npm/-/packages/"
+  },
+  "repository": {
+    "name": "com.gameframex.unity.nomnomab.asset-tabs",
+    "url": "git+https://github.com/gameframex/com.gameframex.unity.nomnomab.asset-tabs.git",
+    "type": "git"
+  }
 }

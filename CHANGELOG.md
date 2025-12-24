@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.nomnomab.asset-tabs/compare/1.0.6...1.1.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([2578ac9](https://github.com/gameframex/com.gameframex.unity.nomnomab.asset-tabs/commit/2578ac963315a9f42ddbb1729c68cc5e4f688f81))
+
 # Changelog
 
 ## [1.0.6](https://github.com/GameFrameX/com.gameframex.unity.nomnomab.asset-tabs/tree/1.0.6) (2025-05-31)
